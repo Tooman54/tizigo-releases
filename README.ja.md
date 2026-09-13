@@ -22,9 +22,10 @@ Android 6.0 以降が必要です。1つのファイルで ARM64、ARMv7、x86�
 
 ## Windows
 
-現在のプロジェクトはネイティブ Windows クライアント 1.24.36 / 182 です。検証済みのインストーラーはまだここに公開されていません。旧 Flutter クライアント 1.23.27 は現行版ではありません。
+[Windows x64 インストーラーをダウンロード — 1.24.38 / 184](https://github.com/Tooman54/tizigo-releases/releases/download/windows-v1.24.38-build-184/TiziGo-Setup-1.24.38-build-184-x64.exe)
+
+公開テスト版です。Windows 10（ビルド 19041）以降が必要です。VPN の使用には管理者権限が必要です。インストーラーは現在デジタル署名されていません。
 
 [すべてのリリース](https://github.com/Tooman54/tizigo-releases/releases) · [公式サイト](https://tizigo.net/) · [開発元](https://veliksoft.com/)
 
 ソースコードや署名鍵は公開しません。公開ファイルのダウンロードに GitHub へのログインは不要です。
-

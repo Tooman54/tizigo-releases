@@ -22,9 +22,10 @@ Diese APKs sind von VelikSoft signiert und eignen sich für eine Neuinstallation
 
 ## Windows
 
-Das aktuelle Projekt ist der native Windows-Client 1.24.36 / 182. Sein geprüftes Installationsprogramm wurde hier noch nicht veröffentlicht. Der alte Flutter-Client 1.23.27 ist nicht die aktuelle Version.
+[Windows-x64-Installer herunterladen — 1.24.38 / 184](https://github.com/Tooman54/tizigo-releases/releases/download/windows-v1.24.38-build-184/TiziGo-Setup-1.24.38-build-184-x64.exe)
+
+Öffentliche Testversion. Windows 10 (Build 19041) oder neuer. Für VPN sind Administratorrechte erforderlich. Das Installationsprogramm ist derzeit nicht digital signiert.
 
 [Alle Versionen](https://github.com/Tooman54/tizigo-releases/releases) · [Website](https://tizigo.net/) · [Entwickler](https://veliksoft.com/)
 
 Quellcode und Signaturschlüssel werden nicht veröffentlicht. Zum Herunterladen veröffentlichter Dateien ist keine Anmeldung bei GitHub erforderlich.
-

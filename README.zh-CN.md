@@ -22,7 +22,9 @@
 
 ## Windows
 
-当前项目为原生 Windows 客户端，版本为 1.24.36 / 182。经过验证的安装程序尚未在此发布。旧版 Flutter 客户端 1.23.27 不是当前版本。
+[下载 Windows x64 安装程序 — 1.24.38 / 184](https://github.com/Tooman54/tizigo-releases/releases/download/windows-v1.24.38-build-184/TiziGo-Setup-1.24.38-build-184-x64.exe)
+
+公开测试版。需要 Windows 10（内部版本 19041）或更高版本。VPN 需要管理员权限。安装程序目前没有数字签名。
 
 [所有版本](https://github.com/Tooman54/tizigo-releases/releases) · [官方网站](https://tizigo.net/) · [开发者](https://veliksoft.com/)
 
