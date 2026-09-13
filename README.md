@@ -1,6 +1,6 @@
 # TiziGo — скачать приложение
 
-[English](README.en.md) · [简体中文](README.zh-CN.md) · [Русский](README.md)
+[Русский](README.md) · [English](README.en.md) · [简体中文](README.zh-CN.md) · [Español](README.es.md) · [Português](README.pt.md) · [Français](README.fr.md) · [Deutsch](README.de.md) · [العربية](README.ar.md) · [हिन्दी](README.hi.md) · [日本語](README.ja.md)
 
 ## Android — APK без Google Play
 
