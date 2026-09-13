@@ -1,24 +1,20 @@
 # TiziGo — скачать приложение
 
-Официальная публичная страница загрузок TiziGo от VelikSoft.
+[English](README.en.md) · [简体中文](README.zh-CN.md) · [Русский](README.md)
 
-## Android
+## Android — APK без Google Play
 
-### [Скачать в Google Play](https://play.google.com/store/apps/details?id=com.veliksoft.tizigo)
+**Версия 1.23.26 / 124.**
 
-Установите приложение из Google Play, чтобы получать обновления через магазин.
+[Скачать универсальный APK с подписью Google Play](https://github.com/Tooman54/tizigo-releases/releases/download/android-v1.23.26-build-124/TiziGo-1.23.26-google-signed.apk)
+
+Android 6.0 или новее. Один файл для ARM64, ARMv7, x86 и x86_64. Google Play для скачивания и установки не требуется. Если не знаете архитектуру устройства, выбирайте универсальный APK.
 
 ## Windows
 
-Актуальная версия исходников Windows-клиента: **1.24.36, сборка 182**.
+Актуальный проект: native Windows-клиент 1.24.36 / 182. Его проверенный установщик ещё не опубликован здесь. Старый Flutter-клиент 1.23.27 не является актуальной версией.
 
-**Установщик этой версии пока не опубликован на этой странице.** Ссылка на скачивание появится после проверки и загрузки готового EXE. Ранее размещённая версия 1.23.27 — устаревший Flutter-клиент, а не актуальный Windows-клиент.
+[Все выпуски](https://github.com/Tooman54/tizigo-releases/releases) · [Сайт](https://tizigo.net/) · [Разработчик](https://veliksoft.com/)
 
-[Открыть опубликованные выпуски](https://github.com/Tooman54/tizigo-releases/releases)
+Исходники и ключи подписи не публикуются. Для скачивания опубликованных файлов вход в GitHub не нужен.
 
-## Полезные ссылки
-
-- [Сайт TiziGo](https://tizigo.net/)
-- [VelikSoft — разработчик](https://veliksoft.com/)
-
-Эта страница и опубликованные здесь установщики доступны без входа в GitHub. Исходный код приложения в этом репозитории не размещается.
