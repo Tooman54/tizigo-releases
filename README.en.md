@@ -4,21 +4,21 @@
 
 ## Android — direct APK download
 
-**Version 1.23.26 / 124.**
+**Version 1.23.35 / 133.**
 
-[Download the universal APK signed by Google Play](https://github.com/Tooman54/tizigo-releases/releases/download/android-v1.23.26-build-124/TiziGo-1.23.26-google-signed.apk)
+[Download the universal APK signed by VelikSoft](https://github.com/Tooman54/tizigo-releases/releases/download/android-v1.23.35-build-133/TiziGo-1.23.35-play-universal.apk)
 
 Android 6.0 or later. One file supports ARM64, ARMv7, x86 and x86_64. Google Play is not required to download or install it. Choose the universal APK if you do not know your device architecture.
 
 ### Separate APKs signed by VelikSoft
 
-- [ARM64 — 64-bit ARM devices](https://github.com/Tooman54/tizigo-releases/releases/download/android-v1.23.26-build-124/TiziGo-1.23.26-play-arm64-v8a.apk)
-- [ARMv7 — 32-bit ARM devices](https://github.com/Tooman54/tizigo-releases/releases/download/android-v1.23.26-build-124/TiziGo-1.23.26-play-armeabi-v7a.apk)
-- [x86_64 — 64-bit Intel/AMD devices and emulators](https://github.com/Tooman54/tizigo-releases/releases/download/android-v1.23.26-build-124/TiziGo-1.23.26-play-x86_64.apk)
-- [x86 — 32-bit Intel devices and emulators](https://github.com/Tooman54/tizigo-releases/releases/download/android-v1.23.26-build-124/TiziGo-1.23.26-play-x86.apk)
-- [Universal — all four architectures](https://github.com/Tooman54/tizigo-releases/releases/download/android-v1.23.26-build-124/TiziGo-1.23.26-play-universal.apk)
+- [ARM64 — 64-bit ARM devices](https://github.com/Tooman54/tizigo-releases/releases/download/android-v1.23.35-build-133/TiziGo-1.23.35-play-arm64-v8a.apk)
+- [ARMv7 — 32-bit ARM devices](https://github.com/Tooman54/tizigo-releases/releases/download/android-v1.23.35-build-133/TiziGo-1.23.35-play-armeabi-v7a.apk)
+- [x86_64 — 64-bit Intel/AMD devices and emulators](https://github.com/Tooman54/tizigo-releases/releases/download/android-v1.23.35-build-133/TiziGo-1.23.35-play-x86_64.apk)
+- [x86 — 32-bit Intel devices and emulators](https://github.com/Tooman54/tizigo-releases/releases/download/android-v1.23.35-build-133/TiziGo-1.23.35-play-x86.apk)
+- [Universal — all four architectures](https://github.com/Tooman54/tizigo-releases/releases/download/android-v1.23.35-build-133/TiziGo-1.23.35-play-universal.apk)
 
-These APKs are signed by VelikSoft and are intended for a new installation or an update with the same signing certificate. They cannot replace an installed app with a different signature. To update the Google Play version, use the Google Play-signed universal APK above. Do not uninstall the app to change signatures without preserving any data you need.
+These APKs are signed by VelikSoft and are intended for a new installation or an update with the same signing certificate. They cannot replace an app with a different signature, including a version installed from Google Play. Do not uninstall the app to change signatures without preserving any data you need.
 
 ## Windows
 

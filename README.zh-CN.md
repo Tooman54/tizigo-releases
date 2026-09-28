@@ -4,21 +4,21 @@
 
 ## Android — 直接下载 APK
 
-**版本：1.23.26 / 124。**
+**版本：1.23.35 / 133。**
 
-[下载由 Google Play 签名的通用 APK](https://github.com/Tooman54/tizigo-releases/releases/download/android-v1.23.26-build-124/TiziGo-1.23.26-google-signed.apk)
+[下载由 VelikSoft 签名的通用 APK](https://github.com/Tooman54/tizigo-releases/releases/download/android-v1.23.35-build-133/TiziGo-1.23.35-play-universal.apk)
 
 需要 Android 6.0 或更高版本。一个文件支持 ARM64、ARMv7、x86 和 x86_64。下载和安装均不需要 Google Play。如果不清楚设备的处理器架构，请选择通用 APK。
 
 ### 由 VelikSoft 签名的独立 APK
 
-- [ARM64 — 64 位 ARM 设备](https://github.com/Tooman54/tizigo-releases/releases/download/android-v1.23.26-build-124/TiziGo-1.23.26-play-arm64-v8a.apk)
-- [ARMv7 — 32 位 ARM 设备](https://github.com/Tooman54/tizigo-releases/releases/download/android-v1.23.26-build-124/TiziGo-1.23.26-play-armeabi-v7a.apk)
-- [x86_64 — 64 位 Intel/AMD 设备及模拟器](https://github.com/Tooman54/tizigo-releases/releases/download/android-v1.23.26-build-124/TiziGo-1.23.26-play-x86_64.apk)
-- [x86 — 32 位 Intel 设备及模拟器](https://github.com/Tooman54/tizigo-releases/releases/download/android-v1.23.26-build-124/TiziGo-1.23.26-play-x86.apk)
-- [通用版 — 支持全部四种架构](https://github.com/Tooman54/tizigo-releases/releases/download/android-v1.23.26-build-124/TiziGo-1.23.26-play-universal.apk)
+- [ARM64 — 64 位 ARM 设备](https://github.com/Tooman54/tizigo-releases/releases/download/android-v1.23.35-build-133/TiziGo-1.23.35-play-arm64-v8a.apk)
+- [ARMv7 — 32 位 ARM 设备](https://github.com/Tooman54/tizigo-releases/releases/download/android-v1.23.35-build-133/TiziGo-1.23.35-play-armeabi-v7a.apk)
+- [x86_64 — 64 位 Intel/AMD 设备及模拟器](https://github.com/Tooman54/tizigo-releases/releases/download/android-v1.23.35-build-133/TiziGo-1.23.35-play-x86_64.apk)
+- [x86 — 32 位 Intel 设备及模拟器](https://github.com/Tooman54/tizigo-releases/releases/download/android-v1.23.35-build-133/TiziGo-1.23.35-play-x86.apk)
+- [通用版 — 支持全部四种架构](https://github.com/Tooman54/tizigo-releases/releases/download/android-v1.23.35-build-133/TiziGo-1.23.35-play-universal.apk)
 
-这些 APK 由 VelikSoft 签名，适用于全新安装或更新使用相同签名证书的版本。它们不能覆盖安装到签名不同的应用上。如需更新 Google Play 版本，请使用上方由 Google Play 签名的通用 APK。请勿在未保留所需数据的情况下，为更换签名而卸载应用。
+这些 APK 均由 VelikSoft 签名，适用于全新安装或更新使用相同签名证书的版本。它们不能覆盖使用不同签名安装的应用，包括从 Google Play 安装的版本。请勿在未保留所需数据的情况下，为更换签名而卸载应用。
 
 ## Windows
 

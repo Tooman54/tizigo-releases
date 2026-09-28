@@ -4,21 +4,21 @@
 
 ## Android — Google Play 不要の APK
 
-**バージョン 1.23.26 / 124.**
+**バージョン 1.23.35 / 133.**
 
-[Google Play 署名付きユニバーサル APK をダウンロード](https://github.com/Tooman54/tizigo-releases/releases/download/android-v1.23.26-build-124/TiziGo-1.23.26-google-signed.apk)
+[VelikSoft 署名付きユニバーサル APK をダウンロード](https://github.com/Tooman54/tizigo-releases/releases/download/android-v1.23.35-build-133/TiziGo-1.23.35-play-universal.apk)
 
 Android 6.0 以降が必要です。1つのファイルで ARM64、ARMv7、x86、x86_64 に対応します。ダウンロードやインストールに Google Play は不要です。端末のアーキテクチャが分からない場合は、ユニバーサル APK を選んでください。
 
 ### VelikSoft 署名付きの個別 APK
 
-- [ARM64 — 64ビット ARM 端末](https://github.com/Tooman54/tizigo-releases/releases/download/android-v1.23.26-build-124/TiziGo-1.23.26-play-arm64-v8a.apk)
-- [ARMv7 — 32ビット ARM 端末](https://github.com/Tooman54/tizigo-releases/releases/download/android-v1.23.26-build-124/TiziGo-1.23.26-play-armeabi-v7a.apk)
-- [x86_64 — 64ビット Intel/AMD 端末とエミュレーター](https://github.com/Tooman54/tizigo-releases/releases/download/android-v1.23.26-build-124/TiziGo-1.23.26-play-x86_64.apk)
-- [x86 — 32ビット Intel 端末とエミュレーター](https://github.com/Tooman54/tizigo-releases/releases/download/android-v1.23.26-build-124/TiziGo-1.23.26-play-x86.apk)
-- [ユニバーサル — 全4種類のアーキテクチャ](https://github.com/Tooman54/tizigo-releases/releases/download/android-v1.23.26-build-124/TiziGo-1.23.26-play-universal.apk)
+- [ARM64 — 64ビット ARM 端末](https://github.com/Tooman54/tizigo-releases/releases/download/android-v1.23.35-build-133/TiziGo-1.23.35-play-arm64-v8a.apk)
+- [ARMv7 — 32ビット ARM 端末](https://github.com/Tooman54/tizigo-releases/releases/download/android-v1.23.35-build-133/TiziGo-1.23.35-play-armeabi-v7a.apk)
+- [x86_64 — 64ビット Intel/AMD 端末とエミュレーター](https://github.com/Tooman54/tizigo-releases/releases/download/android-v1.23.35-build-133/TiziGo-1.23.35-play-x86_64.apk)
+- [x86 — 32ビット Intel 端末とエミュレーター](https://github.com/Tooman54/tizigo-releases/releases/download/android-v1.23.35-build-133/TiziGo-1.23.35-play-x86.apk)
+- [ユニバーサル — 全4種類のアーキテクチャ](https://github.com/Tooman54/tizigo-releases/releases/download/android-v1.23.35-build-133/TiziGo-1.23.35-play-universal.apk)
 
-これらの APK は VelikSoft によって署名されており、新規インストールまたは同じ署名のバージョンの更新に使用できます。異なる署名のインストール済みアプリを上書きすることはできません。Google Play 版を更新する場合は、上記の Google Play 署名付きユニバーサル APK を使用してください。署名を変更するためにアプリをアンインストールする場合は、必要なデータを必ず保存してください。
+これらの APK は VelikSoft によって署名されており、新規インストールまたは同じ署名のバージョンの更新に使用できます。Google Play からインストールしたバージョンを含め、異なる署名のアプリを上書きすることはできません。署名を変更するためにアプリをアンインストールする場合は、必要なデータを必ず保存してください。
 
 ## Windows
 
