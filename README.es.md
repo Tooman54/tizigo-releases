@@ -22,7 +22,7 @@ Estos APK están firmados por VelikSoft y sirven para una instalación nueva o p
 
 ## Windows
 
-[Descargar instalador para Windows x64 — 1.24.38 / 184](https://github.com/Tooman54/tizigo-releases/releases/download/windows-v1.24.38-build-184/TiziGo-Setup-1.24.38-build-184-x64.exe)
+[Descargar instalador para Windows x64 — 1.24.43 / 189](https://github.com/Tooman54/tizigo-releases/releases/download/windows-v1.24.43-build-189/TiziGo-Setup-1.24.43-build-189-x64.exe)
 
 Versión de prueba pública. Windows 10 (compilación 19041) o posterior. La VPN requiere permisos de administrador. El instalador aún no tiene firma digital.
 

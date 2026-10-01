@@ -22,7 +22,7 @@
 
 ## Windows
 
-[تنزيل برنامج التثبيت لنظام Windows x64 — 1.24.38 / 184](https://github.com/Tooman54/tizigo-releases/releases/download/windows-v1.24.38-build-184/TiziGo-Setup-1.24.38-build-184-x64.exe)
+[تنزيل برنامج التثبيت لنظام Windows x64 — 1.24.43 / 189](https://github.com/Tooman54/tizigo-releases/releases/download/windows-v1.24.43-build-189/TiziGo-Setup-1.24.43-build-189-x64.exe)
 
 إصدار تجريبي عام. يتطلب Windows 10 (البنية 19041) أو أحدث. تتطلب خدمة VPN صلاحيات المسؤول. برنامج التثبيت غير موقّع رقمياً حالياً.
 

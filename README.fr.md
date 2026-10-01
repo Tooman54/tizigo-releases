@@ -22,7 +22,7 @@ Ces APK sont signés par VelikSoft et permettent une nouvelle installation ou la
 
 ## Windows
 
-[Télécharger l’installateur Windows x64 — 1.24.38 / 184](https://github.com/Tooman54/tizigo-releases/releases/download/windows-v1.24.38-build-184/TiziGo-Setup-1.24.38-build-184-x64.exe)
+[Télécharger l’installateur Windows x64 — 1.24.43 / 189](https://github.com/Tooman54/tizigo-releases/releases/download/windows-v1.24.43-build-189/TiziGo-Setup-1.24.43-build-189-x64.exe)
 
 Version de test publique. Windows 10 (build 19041) ou version ultérieure. La fonction VPN nécessite les droits administrateur. L’installateur n’est pas encore signé numériquement.
 

@@ -22,7 +22,7 @@ Android 6.0 या नया संस्करण चाहिए। एक ह
 
 ## Windows
 
-[Windows x64 इंस्टॉलर डाउनलोड करें — 1.24.38 / 184](https://github.com/Tooman54/tizigo-releases/releases/download/windows-v1.24.38-build-184/TiziGo-Setup-1.24.38-build-184-x64.exe)
+[Windows x64 इंस्टॉलर डाउनलोड करें — 1.24.43 / 189](https://github.com/Tooman54/tizigo-releases/releases/download/windows-v1.24.43-build-189/TiziGo-Setup-1.24.43-build-189-x64.exe)
 
 सार्वजनिक परीक्षण संस्करण। Windows 10 (बिल्ड 19041) या नया संस्करण चाहिए। VPN के लिए प्रशासक अधिकार आवश्यक हैं। इंस्टॉलर पर अभी डिजिटल हस्ताक्षर नहीं हैं।
 

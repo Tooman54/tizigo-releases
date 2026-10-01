@@ -22,7 +22,7 @@ Android 6.0 или новее. Один файл для ARM64, ARMv7, x86 и x86
 
 ## Windows
 
-[Скачать установщик Windows x64 — 1.24.38 / 184](https://github.com/Tooman54/tizigo-releases/releases/download/windows-v1.24.38-build-184/TiziGo-Setup-1.24.38-build-184-x64.exe)
+[Скачать установщик Windows x64 — 1.24.43 / 189](https://github.com/Tooman54/tizigo-releases/releases/download/windows-v1.24.43-build-189/TiziGo-Setup-1.24.43-build-189-x64.exe)
 
 Публичная тестовая версия. Windows 10 (сборка 19041) или новее. Для VPN нужны права администратора. Установщик пока без цифровой подписи.
 

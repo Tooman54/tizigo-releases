@@ -22,7 +22,7 @@
 
 ## Windows
 
-[下载 Windows x64 安装程序 — 1.24.38 / 184](https://github.com/Tooman54/tizigo-releases/releases/download/windows-v1.24.38-build-184/TiziGo-Setup-1.24.38-build-184-x64.exe)
+[下载 Windows x64 安装程序 — 1.24.43 / 189](https://github.com/Tooman54/tizigo-releases/releases/download/windows-v1.24.43-build-189/TiziGo-Setup-1.24.43-build-189-x64.exe)
 
 公开测试版。需要 Windows 10（内部版本 19041）或更高版本。VPN 需要管理员权限。安装程序目前没有数字签名。
 
