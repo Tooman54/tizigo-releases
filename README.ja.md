@@ -26,12 +26,14 @@ APKの署名は、以前ここで公開したバージョン133と一致しま�
 
 ## Windows
 
-**バージョン 1.24.43 (189)**
+**バージョン 1.24.43 (190) · 公開テスト版 B**
 
-### [Windows x64インストーラーをダウンロード](https://github.com/Tooman54/tizigo-releases/releases/download/downloads-2026-11-05/TiziGo-Setup-1.24.43-build-189-securityfix-x64.exe)
+### [Windows x64インストーラーをダウンロード](https://github.com/Tooman54/tizigo-releases/releases/download/windows-v1.24.43-build-190-preview/TiziGo-Setup-1.24.43-build-190-x64.exe)
 
-Windows 10（ビルド19041）以降、x64。2026年11月3日更新。
+Windows 10（ビルド19041）以降、x64。2026年11月6日更新。
 ダウンロードしたEXEを実行してください。VPNには管理者権限が必要です。インストーラーには現在、発行元のデジタル署名がありません。
+
+[Windows インストーラーのチェックサム (SHA-256)](https://github.com/Tooman54/tizigo-releases/releases/download/windows-v1.24.43-build-190-preview/SHA256SUMS.txt)
 
 ## macOS
 

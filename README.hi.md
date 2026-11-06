@@ -26,12 +26,14 @@ APK का हस्ताक्षर यहाँ पहले प्रका
 
 ## Windows
 
-**संस्करण 1.24.43 (189)**
+**संस्करण 1.24.43 (190) · सार्वजनिक परीक्षण बिल्ड B**
 
-### [Windows x64 इंस्टॉलर डाउनलोड करें](https://github.com/Tooman54/tizigo-releases/releases/download/downloads-2026-11-05/TiziGo-Setup-1.24.43-build-189-securityfix-x64.exe)
+### [Windows x64 इंस्टॉलर डाउनलोड करें](https://github.com/Tooman54/tizigo-releases/releases/download/windows-v1.24.43-build-190-preview/TiziGo-Setup-1.24.43-build-190-x64.exe)
 
-Windows 10 (बिल्ड 19041) या नया संस्करण, x64। 3 नवंबर 2026 को अपडेट किया गया।
+Windows 10 (बिल्ड 19041) या नया संस्करण, x64। 6 नवंबर 2026 को अपडेट किया गया।
 डाउनलोड की गई EXE चलाएँ। VPN के लिए एडमिनिस्ट्रेटर अधिकार आवश्यक हैं। इंस्टॉलर पर अभी प्रकाशक का डिजिटल हस्ताक्षर नहीं है।
+
+[Windows इंस्टॉलर का चेकसम (SHA-256)](https://github.com/Tooman54/tizigo-releases/releases/download/windows-v1.24.43-build-190-preview/SHA256SUMS.txt)
 
 ## macOS
 

@@ -26,12 +26,14 @@ APK 签名与此前在此发布的 133 版本一致。Google Play 版本使用�
 
 ## Windows
 
-**版本 1.24.43 (189)**
+**版本 1.24.43 (190) · 公开测试版 B**
 
-### [下载 Windows x64 安装程序](https://github.com/Tooman54/tizigo-releases/releases/download/downloads-2026-11-05/TiziGo-Setup-1.24.43-build-189-securityfix-x64.exe)
+### [下载 Windows x64 安装程序](https://github.com/Tooman54/tizigo-releases/releases/download/windows-v1.24.43-build-190-preview/TiziGo-Setup-1.24.43-build-190-x64.exe)
 
-需要 Windows 10（内部版本 19041）或更高版本，x64。更新于 2026 年 11 月 3 日。
+需要 Windows 10（内部版本 19041）或更高版本，x64。更新于 2026 年 11 月 6 日。
 运行下载的 EXE。VPN 需要管理员权限。安装程序目前没有发布者数字签名。
+
+[Windows 安装程序校验值 (SHA-256)](https://github.com/Tooman54/tizigo-releases/releases/download/windows-v1.24.43-build-190-preview/SHA256SUMS.txt)
 
 ## macOS
 
