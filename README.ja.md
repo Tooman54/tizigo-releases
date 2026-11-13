@@ -37,9 +37,9 @@ Windows 10（ビルド19041）以降、x64。2026年11月6日更新。
 
 ## macOS
 
-**バージョン 1.23.23 (420)**
+**バージョン 1.24.0 (429)**
 
-### [macOS版をダウンロード — IntelとApple Silicon](https://github.com/Tooman54/tizigo-releases/releases/download/downloads-2026-11-05/TiziGo-Mac-1.23.23-420-universal.zip)
+### [macOS版をダウンロード — IntelとApple Silicon](https://github.com/Tooman54/tizigo-releases/releases/download/macos-v1.24.0-build-429/TiziGo-Mac-1.24.0-429-universal.zip)
 
 macOS 13以降。IntelとApple Siliconに対応するユニバーサルパッケージです。
 ZIPを展開し、TiziGoを「アプリケーション」に移動してください。Developer IDで署名され、Appleの公証を受けています。
@@ -90,9 +90,9 @@ Windows 10 (сборка 19041) и новее, x64. Обновление от 03
 
 ## macOS
 
-**Версия 1.23.23 (420)**
+**Версия 1.24.0 (429)**
 
-### [Скачать для macOS — Intel и Apple Silicon](https://github.com/Tooman54/tizigo-releases/releases/download/downloads-2026-11-05/TiziGo-Mac-1.23.23-420-universal.zip)
+### [Скачать для macOS — Intel и Apple Silicon](https://github.com/Tooman54/tizigo-releases/releases/download/macos-v1.24.0-build-429/TiziGo-Mac-1.24.0-429-universal.zip)
 
 macOS 13 и новее. Один универсальный пакет для Intel и Apple Silicon.
 Распакуйте ZIP и перенесите TiziGo в «Программы». Приложение подписано Developer ID и прошло нотариализацию Apple.

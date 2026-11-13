@@ -37,9 +37,9 @@ Windows 10 (बिल्ड 19041) या नया संस्करण, x64�
 
 ## macOS
 
-**संस्करण 1.23.23 (420)**
+**संस्करण 1.24.0 (429)**
 
-### [macOS के लिए डाउनलोड करें — Intel और Apple Silicon](https://github.com/Tooman54/tizigo-releases/releases/download/downloads-2026-11-05/TiziGo-Mac-1.23.23-420-universal.zip)
+### [macOS के लिए डाउनलोड करें — Intel और Apple Silicon](https://github.com/Tooman54/tizigo-releases/releases/download/macos-v1.24.0-build-429/TiziGo-Mac-1.24.0-429-universal.zip)
 
 macOS 13 या नया संस्करण। Intel और Apple Silicon के लिए एक यूनिवर्सल पैकेज।
 ZIP निकालें और TiziGo को Applications में ले जाएँ। ऐप Developer ID से हस्ताक्षरित और Apple द्वारा नोटराइज़ किया गया है।
@@ -90,9 +90,9 @@ Windows 10 (сборка 19041) и новее, x64. Обновление от 03
 
 ## macOS
 
-**Версия 1.23.23 (420)**
+**Версия 1.24.0 (429)**
 
-### [Скачать для macOS — Intel и Apple Silicon](https://github.com/Tooman54/tizigo-releases/releases/download/downloads-2026-11-05/TiziGo-Mac-1.23.23-420-universal.zip)
+### [Скачать для macOS — Intel и Apple Silicon](https://github.com/Tooman54/tizigo-releases/releases/download/macos-v1.24.0-build-429/TiziGo-Mac-1.24.0-429-universal.zip)
 
 macOS 13 и новее. Один универсальный пакет для Intel и Apple Silicon.
 Распакуйте ZIP и перенесите TiziGo в «Программы». Приложение подписано Developer ID и прошло нотариализацию Apple.

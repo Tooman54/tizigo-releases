@@ -37,9 +37,9 @@ Exécutez le fichier EXE téléchargé. Le VPN exige les droits administrateur. 
 
 ## macOS
 
-**Version 1.23.23 (420)**
+**Version 1.24.0 (429)**
 
-### [Télécharger pour macOS — Intel et Apple Silicon](https://github.com/Tooman54/tizigo-releases/releases/download/downloads-2026-11-05/TiziGo-Mac-1.23.23-420-universal.zip)
+### [Télécharger pour macOS — Intel et Apple Silicon](https://github.com/Tooman54/tizigo-releases/releases/download/macos-v1.24.0-build-429/TiziGo-Mac-1.24.0-429-universal.zip)
 
 macOS 13 ou version ultérieure. Un paquet universel pour Intel et Apple Silicon.
 Décompressez le ZIP et déplacez TiziGo dans Applications. L’application est signée avec Developer ID et notariée par Apple.
@@ -90,9 +90,9 @@ Windows 10 (сборка 19041) и новее, x64. Обновление от 03
 
 ## macOS
 
-**Версия 1.23.23 (420)**
+**Версия 1.24.0 (429)**
 
-### [Скачать для macOS — Intel и Apple Silicon](https://github.com/Tooman54/tizigo-releases/releases/download/downloads-2026-11-05/TiziGo-Mac-1.23.23-420-universal.zip)
+### [Скачать для macOS — Intel и Apple Silicon](https://github.com/Tooman54/tizigo-releases/releases/download/macos-v1.24.0-build-429/TiziGo-Mac-1.24.0-429-universal.zip)
 
 macOS 13 и новее. Один универсальный пакет для Intel и Apple Silicon.
 Распакуйте ZIP и перенесите TiziGo в «Программы». Приложение подписано Developer ID и прошло нотариализацию Apple.

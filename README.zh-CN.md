@@ -37,9 +37,9 @@ APK 签名与此前在此发布的 133 版本一致。Google Play 版本使用�
 
 ## macOS
 
-**版本 1.23.23 (420)**
+**版本 1.24.0 (429)**
 
-### [下载 macOS 版 — Intel 和 Apple Silicon](https://github.com/Tooman54/tizigo-releases/releases/download/downloads-2026-11-05/TiziGo-Mac-1.23.23-420-universal.zip)
+### [下载 macOS 版 — Intel 和 Apple Silicon](https://github.com/Tooman54/tizigo-releases/releases/download/macos-v1.24.0-build-429/TiziGo-Mac-1.24.0-429-universal.zip)
 
 需要 macOS 13 或更高版本。一个通用安装包兼容 Intel 和 Apple Silicon。
 解压 ZIP 并将 TiziGo 移至“应用程序”。应用已使用 Developer ID 签名并通过 Apple 公证。
@@ -90,9 +90,9 @@ Windows 10 (сборка 19041) и новее, x64. Обновление от 03
 
 ## macOS
 
-**Версия 1.23.23 (420)**
+**Версия 1.24.0 (429)**
 
-### [Скачать для macOS — Intel и Apple Silicon](https://github.com/Tooman54/tizigo-releases/releases/download/downloads-2026-11-05/TiziGo-Mac-1.23.23-420-universal.zip)
+### [Скачать для macOS — Intel и Apple Silicon](https://github.com/Tooman54/tizigo-releases/releases/download/macos-v1.24.0-build-429/TiziGo-Mac-1.24.0-429-universal.zip)
 
 macOS 13 и новее. Один универсальный пакет для Intel и Apple Silicon.
 Распакуйте ZIP и перенесите TiziGo в «Программы». Приложение подписано Developer ID и прошло нотариализацию Apple.
