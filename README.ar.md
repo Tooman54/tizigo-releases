@@ -50,6 +50,12 @@
 
 يمكن تنزيل الملفات دون تسجيل الدخول إلى GitHub.
 
+## الموقع والدعم
+
+- الموقع: [tizigo.net/ar](https://tizigo.net/ar/)
+- المطوّر: [VelikSoft Limited](https://veliksoft.com/ar)
+- الدعم: [admin@veliksoft.com](mailto:admin@veliksoft.com) · Telegram [@VelikSoft](https://t.me/VelikSoft) · WhatsApp [+852 5331 4846](https://wa.me/85253314846)
+
 <details>
 <summary>Полный перевод на русский язык</summary>
 

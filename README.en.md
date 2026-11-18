@@ -50,6 +50,12 @@ Extract the ZIP and move TiziGo to Applications. The app is Developer ID signed 
 
 No GitHub login is required to download the files.
 
+## Website and support
+
+- Website: [tizigo.net/en](https://tizigo.net/en/)
+- Developer: [VelikSoft Limited](https://veliksoft.com/en)
+- Support: [admin@veliksoft.com](mailto:admin@veliksoft.com) · Telegram [@VelikSoft](https://t.me/VelikSoft) · WhatsApp [+852 5331 4846](https://wa.me/85253314846)
+
 <details>
 <summary>Полный перевод на русский язык</summary>
 

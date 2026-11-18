@@ -50,6 +50,12 @@ Entpacken Sie die ZIP-Datei und verschieben Sie TiziGo in Programme. Die App ist
 
 Zum Herunterladen ist keine GitHub-Anmeldung erforderlich.
 
+## Website und Support
+
+- Website: [tizigo.net/de](https://tizigo.net/de/)
+- Entwickler: [VelikSoft Limited](https://veliksoft.com/de)
+- Support: [admin@veliksoft.com](mailto:admin@veliksoft.com) · Telegram [@VelikSoft](https://t.me/VelikSoft) · WhatsApp [+852 5331 4846](https://wa.me/85253314846)
+
 <details>
 <summary>Полный перевод на русский язык</summary>
 

@@ -49,3 +49,9 @@ macOS 13 и новее. Один универсальный пакет для In
 [Сведения о выпуске и исходники GPL](https://github.com/Tooman54/tizigo-releases/releases/tag/downloads-2026-11-05) · [Контрольные суммы SHA-256](https://github.com/Tooman54/tizigo-releases/releases/download/downloads-2026-11-05/SHA256SUMS.txt) · [Все выпуски](https://github.com/Tooman54/tizigo-releases/releases)
 
 Скачать файлы можно без входа в GitHub.
+
+## Сайт и поддержка
+
+- Сайт: [tizigo.net](https://tizigo.net/)
+- Разработчик: [VelikSoft Limited](https://veliksoft.com/ru)
+- Поддержка: [admin@veliksoft.com](mailto:admin@veliksoft.com) · Telegram [@VelikSoft](https://t.me/VelikSoft) · WhatsApp [+852 5331 4846](https://wa.me/85253314846)

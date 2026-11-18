@@ -50,6 +50,12 @@ Extraia o ZIP e mova o TiziGo para Aplicativos. O aplicativo é assinado com Dev
 
 Não é necessário entrar no GitHub para baixar os arquivos.
 
+## Site e suporte
+
+- Site: [tizigo.net/pt](https://tizigo.net/pt/)
+- Desenvolvedor: [VelikSoft Limited](https://veliksoft.com/pt)
+- Suporte: [admin@veliksoft.com](mailto:admin@veliksoft.com) · Telegram [@VelikSoft](https://t.me/VelikSoft) · WhatsApp [+852 5331 4846](https://wa.me/85253314846)
+
 <details>
 <summary>Полный перевод на русский язык</summary>
 

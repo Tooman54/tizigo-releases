@@ -50,6 +50,12 @@ ZIPを展開し、TiziGoを「アプリケーション」に移動してくだ�
 
 ファイルのダウンロードにGitHubへのログインは必要ありません。
 
+## ウェブサイトとサポート
+
+- ウェブサイト：[tizigo.net/ja](https://tizigo.net/ja/)
+- 開発元：[VelikSoft Limited](https://veliksoft.com/ja)
+- サポート：[admin@veliksoft.com](mailto:admin@veliksoft.com) · Telegram [@VelikSoft](https://t.me/VelikSoft) · WhatsApp [+852 5331 4846](https://wa.me/85253314846)
+
 <details>
 <summary>Полный перевод на русский язык</summary>
 

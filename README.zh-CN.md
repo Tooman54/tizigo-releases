@@ -50,6 +50,12 @@ APK 签名与此前在此发布的 133 版本一致。Google Play 版本使用�
 
 无需登录 GitHub 即可下载文件。
 
+## 网站与支持
+
+- 网站：[tizigo.net/zh-Hans](https://tizigo.net/zh-Hans/)
+- 开发者：[VelikSoft Limited](https://veliksoft.com/zh)
+- 支持：[admin@veliksoft.com](mailto:admin@veliksoft.com) · Telegram [@VelikSoft](https://t.me/VelikSoft) · WhatsApp [+852 5331 4846](https://wa.me/85253314846)
+
 <details>
 <summary>Полный перевод на русский язык</summary>
 

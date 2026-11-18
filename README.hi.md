@@ -50,6 +50,12 @@ ZIP निकालें और TiziGo को Applications में ले ज
 
 फ़ाइलें डाउनलोड करने के लिए GitHub में साइन इन करना आवश्यक नहीं है।
 
+## वेबसाइट और सहायता
+
+- वेबसाइट: [tizigo.net/hi](https://tizigo.net/hi/)
+- डेवलपर: [VelikSoft Limited](https://veliksoft.com/hi)
+- सहायता: [admin@veliksoft.com](mailto:admin@veliksoft.com) · Telegram [@VelikSoft](https://t.me/VelikSoft) · WhatsApp [+852 5331 4846](https://wa.me/85253314846)
+
 <details>
 <summary>Полный перевод на русский язык</summary>
 

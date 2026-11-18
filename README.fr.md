@@ -50,6 +50,12 @@ Décompressez le ZIP et déplacez TiziGo dans Applications. L’application est 
 
 Aucune connexion à GitHub n’est nécessaire pour télécharger les fichiers.
 
+## Site et assistance
+
+- Site : [tizigo.net/fr](https://tizigo.net/fr/)
+- Développeur : [VelikSoft Limited](https://veliksoft.com/fr)
+- Assistance : [admin@veliksoft.com](mailto:admin@veliksoft.com) · Telegram [@VelikSoft](https://t.me/VelikSoft) · WhatsApp [+852 5331 4846](https://wa.me/85253314846)
+
 <details>
 <summary>Полный перевод на русский язык</summary>
 
