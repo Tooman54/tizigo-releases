@@ -26,14 +26,14 @@ The APK signature matches version 133 previously published here. The Google Play
 
 ## Windows
 
-**Version 1.24.43 (190) · Public test build B**
+**Version 1.24.43 (192) · Public test build**
 
-### [Download Windows x64 installer](https://github.com/Tooman54/tizigo-releases/releases/download/windows-v1.24.43-build-190-preview/TiziGo-Setup-1.24.43-build-190-x64.exe)
+### [Download Windows x64 installer](https://github.com/Tooman54/tizigo-releases/releases/download/windows-v1.24.43-build-192-preview/TiziGo-Setup-1.24.43-build-192-x64.exe)
 
-Windows 10 (build 19041) or later, x64. Updated on 6 November 2026.
+Windows 10 (build 19041) or later, x64. Updated on 18 November 2026.
 Run the downloaded EXE. VPN requires administrator privileges. The installer currently has no publisher digital signature.
 
-[Windows installer checksum (SHA-256)](https://github.com/Tooman54/tizigo-releases/releases/download/windows-v1.24.43-build-190-preview/SHA256SUMS.txt)
+[Windows installer checksum (SHA-256)](https://github.com/Tooman54/tizigo-releases/releases/download/windows-v1.24.43-build-192-preview/SHA256SUMS.txt)
 
 ## macOS
 
