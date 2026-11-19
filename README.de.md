@@ -26,14 +26,14 @@ Die APK-Signatur stimmt mit der zuvor hier veröffentlichten Version 133 überei
 
 ## Windows
 
-**Version 1.24.43 (194) · Öffentliche Testversion**
+**Version 1.24.43 (195) · Öffentliche Testversion**
 
-### [Windows-x64-Installationsdatei herunterladen](https://github.com/Tooman54/tizigo-releases/releases/download/windows-v1.24.43-build-194-preview/TiziGo-Setup-1.24.43-build-194-x64.exe)
+### [Windows-x64-Installationsdatei herunterladen](https://github.com/Tooman54/tizigo-releases/releases/download/windows-v1.24.43-build-195-preview/TiziGo-Setup-1.24.43-build-195-x64.exe)
 
 Windows 10 (Build 19041) oder neuer, x64. Aktualisiert am 19. November 2026.
 Starten Sie die heruntergeladene EXE. Für das VPN sind Administratorrechte erforderlich. Die Installationsdatei hat derzeit keine digitale Herausgebersignatur.
 
-[Prüfsumme des Windows-Installers (SHA-256)](https://github.com/Tooman54/tizigo-releases/releases/download/windows-v1.24.43-build-194-preview/SHA256SUMS.txt)
+[Prüfsumme des Windows-Installers (SHA-256)](https://github.com/Tooman54/tizigo-releases/releases/download/windows-v1.24.43-build-195-preview/SHA256SUMS.txt)
 
 ## macOS
 
