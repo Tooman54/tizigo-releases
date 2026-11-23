@@ -26,14 +26,14 @@
 
 ## Windows
 
-**الإصدار 1.24.43 (195) · إصدار الاختبار العام**
+**الإصدار 1.24.43 (197) · إصدار الاختبار العام**
 
-### [تنزيل برنامج تثبيت Windows x64](https://github.com/Tooman54/tizigo-releases/releases/download/windows-v1.24.43-build-195-preview/TiziGo-Setup-1.24.43-build-195-x64.exe)
+### [تنزيل برنامج تثبيت Windows x64](https://github.com/Tooman54/tizigo-releases/releases/download/windows-v1.24.43-build-197-preview/TiziGo-Setup-1.24.43-build-197-x64.exe)
 
-يلزم Windows 10 (البنية 19041) أو أحدث، x64. آخر تحديث في 19 نوفمبر 2026.
+يلزم Windows 10 (البنية 19041) أو أحدث، x64. آخر تحديث في 24 نوفمبر 2026.
 شغّل ملف EXE الذي نزلته. يتطلب VPN صلاحيات المسؤول. برنامج التثبيت لا يحمل توقيعًا رقميًا للناشر حاليًا.
 
-[قيمة التحقق لملف تثبيت Windows (SHA-256)](https://github.com/Tooman54/tizigo-releases/releases/download/windows-v1.24.43-build-195-preview/SHA256SUMS.txt)
+[قيمة التحقق لملف تثبيت Windows (SHA-256)](https://github.com/Tooman54/tizigo-releases/releases/download/windows-v1.24.43-build-197-preview/SHA256SUMS.txt)
 
 ## macOS
 
