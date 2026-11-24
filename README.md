@@ -26,14 +26,14 @@ Android 7.0 и новее. Google Play для скачивания и устан
 
 ## Windows
 
-**Версия 1.24.43 (198) · Публичная тестовая сборка**
+**Версия 1.24.43 (199) · Публичная тестовая сборка**
 
-### [Скачать установщик Windows x64](https://github.com/Tooman54/tizigo-releases/releases/download/windows-v1.24.43-build-198-preview/TiziGo-Setup-1.24.43-build-198-x64.exe)
+### [Скачать установщик Windows x64](https://github.com/Tooman54/tizigo-releases/releases/download/windows-v1.24.43-build-199-preview/TiziGo-Setup-1.24.43-build-199-x64.exe)
 
 Windows 10 (сборка 19041) и новее, x64. Обновление от 24.11.2026.
 Запустите скачанный EXE. Для VPN нужны права администратора. Установщик пока без цифровой подписи издателя.
 
-[Контрольная сумма Windows EXE (SHA-256)](https://github.com/Tooman54/tizigo-releases/releases/download/windows-v1.24.43-build-198-preview/SHA256SUMS.txt)
+[Контрольная сумма Windows EXE (SHA-256)](https://github.com/Tooman54/tizigo-releases/releases/download/windows-v1.24.43-build-199-preview/SHA256SUMS.txt)
 
 ## macOS
 
