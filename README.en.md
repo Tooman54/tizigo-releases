@@ -26,14 +26,14 @@ The APK signature matches version 133 previously published here. The Google Play
 
 ## Windows
 
-**Version 1.24.43 (202) · Public test build**
+**Version 1.24.43 (203) · Public test build**
 
-### [Download Windows x64 installer](https://github.com/Tooman54/tizigo-releases/releases/download/windows-v1.24.43-build-202-preview/TiziGo-Setup-1.24.43-build-202-x64.exe)
+### [Download Windows x64 installer](https://github.com/Tooman54/tizigo-releases/releases/download/windows-v1.24.43-build-203-preview/TiziGo-Setup-1.24.43-build-203-x64.exe)
 
-Windows 10 (build 14393) or later, x64. Updated on 24 November 2026.
+Windows 10 (build 14393) or later, x64. Updated on 25 November 2026.
 Run the downloaded EXE. VPN requires administrator privileges. The installer currently has no publisher digital signature.
 
-[Windows installer checksum (SHA-256)](https://github.com/Tooman54/tizigo-releases/releases/download/windows-v1.24.43-build-202-preview/SHA256SUMS.txt)
+[Windows installer checksum (SHA-256)](https://github.com/Tooman54/tizigo-releases/releases/download/windows-v1.24.43-build-203-preview/SHA256SUMS.txt)
 
 ## macOS
 
@@ -87,12 +87,14 @@ Android 7.0 и новее. Google Play для скачивания и устан
 
 ## Windows
 
-**Версия 1.24.43 (189)**
+**Версия 1.24.43 (203) · Публичная тестовая сборка**
 
-### [Скачать установщик Windows x64](https://github.com/Tooman54/tizigo-releases/releases/download/downloads-2026-11-05/TiziGo-Setup-1.24.43-build-189-securityfix-x64.exe)
+### [Скачать установщик Windows x64](https://github.com/Tooman54/tizigo-releases/releases/download/windows-v1.24.43-build-203-preview/TiziGo-Setup-1.24.43-build-203-x64.exe)
 
-Windows 10 (сборка 19041) и новее, x64. Обновление от 03.11.2026.
+Windows 10 (сборка 14393) и новее, x64. Обновление от 25.11.2026.
 Запустите скачанный EXE. Для VPN нужны права администратора. Установщик пока без цифровой подписи издателя.
+
+[Контрольная сумма Windows EXE (SHA-256)](https://github.com/Tooman54/tizigo-releases/releases/download/windows-v1.24.43-build-203-preview/SHA256SUMS.txt)
 
 ## macOS
 
